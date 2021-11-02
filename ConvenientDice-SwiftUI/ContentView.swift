@@ -49,8 +49,11 @@ struct ContentView: View
                     Text("Roll")
                         .font(.system(size: 50))
                         .fontWeight(.heavy)
-                        .foregroundColor(.white)
+                        .foregroundColor(.gray)
                         .padding(.horizontal)
+                        
+                        
+
                 }
                 .background(Color.black)
                 .padding(.all)
